@@ -1,0 +1,3 @@
+[submodule "AWLD/modules/awld-js"]
+	path = AWLD/modules/awld-js
+	url = git://github.com/isawnyu/awld-js.git
