@@ -2,13 +2,14 @@ This extension facilitates using the AWLD.js, a javascript library for Ancient W
 
 It will be useful to wikis dealing with content about the Ancient World, such as history, archaeology, literature.
 
-==Download instructions==
+## Download instructions
 
 Please download the code from https://github.com/steko/mediawiki-awld and place it in $IP/extensions/.
 
-==Installation==
+## Installation
 
 To install this extension, add the following to LocalSettings.php:
 
+```php
 require_once("$IP/extensions/AWLD/AWLD.php");
-
+```
